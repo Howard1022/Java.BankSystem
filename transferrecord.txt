@@ -1,0 +1,5 @@
+
+1|08/08/2021 08:27:58|2|Howard|Saving|5000|1000|3|Susan|Current|5888
+2|08/17/2021 03:04:54|4|Mei Chi|Saving|500|150|2|Howard|Saving|1500
+3|08/17/2021 10:51:19|4|Mark|Current|500|600|2|Howard|Saving|1623
+4|08/19/2021 10:43:43|2|Howard|Saving|500|623|3|Susan|Current|6388

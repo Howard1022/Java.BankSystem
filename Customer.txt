@@ -1,0 +1,5 @@
+ID/Name/IC/Gender/Religion/Mobile/Email/AccountType/Address/DepositAmount/Password
+1/Aqieff/12312312323/Female/Muslim/011-111 1212/Aqieff@gmail.com/Saving/No 1 Jalan Tiram/3079/123
+2/Howard/011022-15-1120/Female/Chinese/010-100 8888/Howardwu@gmail.com/Saving/No 1 Bangsar South City/623/500
+3/Susan/010665-65-0213/Female/Buddhist/019-999 9595/Susan@gmail.com/Current/No 1 Jalan Bandar Puteri, Klang/6388/123
+4/Mark/011022141191/Male/Muslim/0162831/Mark@gmail.com/Current/No 1 Jalan Bangsar Timur/550/1523
